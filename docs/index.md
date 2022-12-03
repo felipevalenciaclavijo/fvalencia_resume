@@ -12,8 +12,6 @@ Business major student and entrepreneur with a passion for data science.
 | <a href="https://github.com/felipevalenciaclavijo">GitHub</a>
 </div>
 
-<!-- https://www.monique.tech/the-art-of-markdown -->
-
 ## Education
 
 `Expected April 2023`
@@ -72,6 +70,6 @@ __Service Missionary__, Nuevo Leon, Mexico
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: December 2022 -->
 
 
