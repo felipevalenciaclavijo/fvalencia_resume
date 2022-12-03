@@ -1,84 +1,68 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Felipe Valencia's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Felipe Valencia
+Business major student and entrepreneur with a passion for data science.
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="fevacla@byui.edu">fevacla@byui.edu</a>
+| <a href="https://byuidatascience.github.io/">Data Science Program</a>
+| <a href="https://www.linkedin.com/in/felipevalenciaclavijo/">LinkedIn</a>
+| <a href="https://github.com/felipevalenciaclavijo">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`Expected April 2023`
+__Brigham Young University - Idaho__, Rexburg, Idaho, USA
 
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
-
-- 4.0 Major GPA
+- __3.98__ Applied Business Management Major GPA with a certificate in Data Science
+- __Relevant courses:__
+    - Business Intel & Analytics (CIT 381)
+    - Math for the Real World (MATH 108X)
+    - Business Statistics (MATH 221A)
+    - SMM Analytics (SMM 150)
+    - Introduction to Databases (CIT 111)
+    - Programming Building Blocks (CSE 110)
+    - Programming with Functions (CSE 111)
+    - Programming with Classes (CSE 210)
+    - Programming with Data Structures (CSE 212)
+    - Data Science Programming (DS 250)
 
 
 ## Related Experience
 
-### Internships
+### Business Intelligence Specialist
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`August 2020 - Present`
+__Aydea Consultores SAS__, Pereira, Risaralda, Colombia
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Collaborated with a team of 6 professionals to assist clients' needs focusing on providing data solutions
+- Developed various methods, programs, and processes to collect & structure business data to convert it into relevant information sources (dashboards) to improve business decisions & activities
+- Converted complex ideas into measurable tasks for teams to follow and accomplish objectives
+- Transformed data using data analytics, data visualization, and data modeling techniques and technologies to identify trends and actionable data
 
-### Data Science Lead
+### Founder & CEO
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`August 2020 - Present`
+__Dataplicada__, Pereira, Risaralda, Colombia
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- Founded and served as CEO of Dataplicada a B2B company that offers statistical data analysis, business intelligence (BI) & analytics solutions to help companies succeed using data to make strategic, actionable decisions in their efforts of R&D, marketing, sales, production, HR, finance, and management
+- Led a team of 5 to design and develop management strategies and tactics to establish the organization’s departments infrastructure and to set the vision and path to make the company thrive
+- Implemented a data-driven approach to decision-making using modern tools to interpret data and make informed decisions for the success of the business
 
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`2021-2022`
+__VP of Education at Pereira, Colombia Chapter__, Academy for Creating Enterprise
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+`2017-2019`
+__Service Missionary__, Nuevo Leon, Mexico
 
 
 
