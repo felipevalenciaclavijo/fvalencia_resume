@@ -17,20 +17,24 @@ Business major student and entrepreneur with a passion for data science.
 ## Education
 
 `Expected April 2023`
-__Brigham Young University - Idaho__, Rexburg, Idaho, USA
+__Applied Business Management__, BYU-Idaho
 
-- __3.98__ Applied Business Management Major GPA with a certificate in Data Science
-- __Relevant courses:__
-    - Business Intel & Analytics (CIT 381)
-    - Math for the Real World (MATH 108X)
-    - Business Statistics (MATH 221A)
-    - SMM Analytics (SMM 150)
-    - Introduction to Databases (CIT 111)
-    - Programming Building Blocks (CSE 110)
-    - Programming with Functions (CSE 111)
-    - Programming with Classes (CSE 210)
-    - Programming with Data Structures (CSE 212)
-    - Data Science Programming (DS 250)
+- __3.98__ Major GPA
+
+`Expected April 2023`
+__Data Science__, BYU-Idaho
+
+- __3.98__ Certificate GPA
+
+`April 2020 - September 2022`
+__Applied Business Management__, BYU-Idaho
+
+- __3.98__ Associate GPA
+
+`December 2021`
+__Business Analysis__, BYU-Idaho
+
+- __3.98__ Certificate GPA
 
 
 ## Related Experience
