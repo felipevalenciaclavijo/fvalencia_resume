@@ -1,6 +1,6 @@
 # My Resume
 
-This repo contains my most recent resume!
+This repo contains my most recent resume! Click [here](https://felipevalenciaclavijo.github.io/fvalencia_resume/)!
 
 FYI: I'm not a Computer Science, CIT, Engineering, or Math student. I'm a Business major student who happens to be involved in the world of Data Science.
 
